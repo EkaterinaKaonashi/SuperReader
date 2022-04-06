@@ -1,0 +1,25 @@
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.dacpac
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.dll
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.pdb
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\obj\Debug\Model.xml
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\obj\Debug\refactor.xml
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\obj\Debug\postdeploy.sql
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\obj\Debug\predeploy.sql
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.dll
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.dacpac
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.sqlproj.AssemblyReference.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\obj\Debug\Model.xml
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\obj\Debug\refactor.xml
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\obj\Debug\postdeploy.sql
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\obj\Debug\predeploy.sql
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.dacpac
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.sqlproj.AssemblyReference.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.pdb

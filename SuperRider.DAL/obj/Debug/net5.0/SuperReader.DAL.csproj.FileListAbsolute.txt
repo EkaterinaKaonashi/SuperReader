@@ -1,0 +1,11 @@
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\bin\Debug\net5.0\SuperReader.DAL.deps.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\bin\Debug\net5.0\SuperReader.DAL.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\bin\Debug\net5.0\ref\SuperReader.DAL.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\bin\Debug\net5.0\SuperReader.DAL.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\obj\Debug\net5.0\SuperReader.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\obj\Debug\net5.0\SuperReader.DAL.AssemblyInfoInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\obj\Debug\net5.0\SuperReader.DAL.AssemblyInfo.cs
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\obj\Debug\net5.0\SuperReader.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\obj\Debug\net5.0\SuperReader.DAL.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\obj\Debug\net5.0\ref\SuperReader.DAL.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.DAL\obj\Debug\net5.0\SuperReader.DAL.pdb

@@ -1,0 +1,5 @@
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\bin\Debug\SuperReader.Db.dacpac
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\bin\Debug\SuperRider.Db.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Db\obj\Debug\SuperRider.Db.pdb

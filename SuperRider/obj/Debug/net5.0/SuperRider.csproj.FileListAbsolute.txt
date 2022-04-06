@@ -1,0 +1,129 @@
+C:\Users\sidle\source\repos\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.AssemblyReference.cache
+C:\Users\sidle\source\repos\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\source\repos\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.AssemblyInfoInputs.cache
+C:\Users\sidle\source\repos\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.AssemblyInfo.cs
+C:\Users\sidle\source\repos\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.CoreCompileInputs.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.exe
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.deps.json
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.runtimeconfig.json
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.runtimeconfig.dev.json
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\ref\SuperRider.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Dapper.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.Core.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.DAL.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.Service.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.DAL.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.Service.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.Core.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.AssemblyReference.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.AssemblyInfoInputs.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.AssemblyInfo.cs
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.CoreCompileInputs.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.CopyComplete
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\ref\SuperRider.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.genruntimeconfig.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider\bin\Debug\net5.0\appsettings.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.exe
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\appsettings.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.deps.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.runtimeconfig.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.runtimeconfig.dev.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\ref\SuperRider.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Dapper.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.DAL.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.Service.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.DAL.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider\bin\Debug\net5.0\SuperRider.Service.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.AssemblyReference.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.AssemblyInfoInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.AssemblyInfo.cs
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.CoreCompileInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.csproj.CopyComplete
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\ref\SuperRider.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider\obj\Debug\net5.0\SuperRider.genruntimeconfig.cache

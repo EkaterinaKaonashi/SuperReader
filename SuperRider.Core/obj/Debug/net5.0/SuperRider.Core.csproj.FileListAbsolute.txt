@@ -1,0 +1,35 @@
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.deps.json
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.dll
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\bin\Debug\net5.0\ref\SuperRider.Core.dll
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.pdb
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.AssemblyInfoInputs.cache
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.AssemblyInfo.cs
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.csproj.CoreCompileInputs.cache
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.dll
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\obj\Debug\net5.0\ref\SuperRider.Core.dll
+C:\Users\sidle\source\repos\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.deps.json
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\bin\Debug\net5.0\ref\SuperRider.Core.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.pdb
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.csproj.AssemblyReference.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.AssemblyInfoInputs.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.AssemblyInfo.cs
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.csproj.CoreCompileInputs.cache
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\ref\SuperRider.Core.dll
+C:\Users\sidle\Downloads\Telegram Desktop\SuperRider\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.deps.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\bin\Debug\net5.0\ref\SuperRider.Core.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\bin\Debug\net5.0\SuperRider.Core.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.csproj.AssemblyReference.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.AssemblyInfoInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.AssemblyInfo.cs
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.csproj.CoreCompileInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\ref\SuperRider.Core.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Core\obj\Debug\net5.0\SuperRider.Core.pdb

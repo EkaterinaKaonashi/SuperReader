@@ -1,0 +1,15 @@
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\bin\Debug\net5.0\SuperReader.Service.deps.json
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\bin\Debug\net5.0\SuperReader.Service.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\bin\Debug\net5.0\ref\SuperReader.Service.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\bin\Debug\net5.0\SuperReader.Service.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\bin\Debug\net5.0\SuperReader.DAL.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\bin\Debug\net5.0\SuperReader.DAL.pdb
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.csproj.AssemblyReference.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.AssemblyInfoInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.AssemblyInfo.cs
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.csproj.CoreCompileInputs.cache
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.csproj.CopyComplete
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\ref\SuperReader.Service.dll
+C:\Users\sidle\Desktop\SuperRider\SuperRider.Service\obj\Debug\net5.0\SuperReader.Service.pdb
